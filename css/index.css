@@ -2,6 +2,7 @@
 
 .first-view {
     height: calc(100vh - 110px);
+    background-image: url(../images/index/ra-menngara.jpeg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -16,9 +17,8 @@
     margin-right: auto;
     padding-left: 40px;
     padding-bottom: 80px;
-    color: #ffffff;
+    color: #000000;
     font-weight: bold;
-    text-shadow: 1px 1px 10px #4b2c14;
 }
 
 .first-view-text h1 {
