@@ -22,7 +22,7 @@
 }
 
 .first-view-text h1 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Zen Antique Soft', serif;
     font-size: 56px;
     line-height: 72px;
 }
@@ -55,7 +55,7 @@ a {
 }
 
 body {
-    font-family: sans-serif;
+    font-family: serif;
     font-size: 16pt;
     color: #000000;
     line-height: 1;
@@ -97,7 +97,7 @@ img {
 }
 
 .site-menu ul li a {
-    font-family: 'Cherry Bomb One', cursive;
+    font-family: 'Zen Antique Soft', serif;
 }
 
 @media (max-width: 800px) {
